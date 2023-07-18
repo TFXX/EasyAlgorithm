@@ -1,9 +1,0 @@
-﻿  pch.c
-  bubble_sort.c
-  EasyAlgorithm.c
-  insert_sort.c
-  merge_sort.c
-  select_sort.c
-  shell_sort.c
-  正在生成代码...
-  EasyAlgorithm.vcxproj -> D:\MyCode\C\EasyAlgorithm\Out\x64\Debug\EasyAlgorithm.lib
