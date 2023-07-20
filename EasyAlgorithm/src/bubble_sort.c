@@ -1,6 +1,6 @@
-#include "pch.h"
+#include "..\inc\pch.h"
 
-#include "bubble_sort.h"
+#include "..\inc\bubble_sort.h"
 
 int bubble_sort(int *pArray, size_t num)
 {

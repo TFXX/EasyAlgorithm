@@ -15,48 +15,51 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="framework.h">
+    <ClInclude Include="inc\pch.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="pch.h">
+    <ClInclude Include="inc\merge_sort.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="merge_sort.h">
+    <ClInclude Include="inc\insert_sort.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="insert_sort.h">
+    <ClInclude Include="inc\shell_sort.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="shell_sort.h">
+    <ClInclude Include="inc\select_sort.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="select_sort.h">
+    <ClInclude Include="inc\bubble_sort.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="bubble_sort.h">
+    <ClInclude Include="inc\quick_sort.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="EasyAlgorithm.c">
+    <ClCompile Include="src\EasyAlgorithm.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="pch.c">
+    <ClCompile Include="src\pch.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="merge_sort.c">
+    <ClCompile Include="src\merge_sort.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="insert_sort.c">
+    <ClCompile Include="src\insert_sort.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="shell_sort.c">
+    <ClCompile Include="src\shell_sort.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="select_sort.c">
+    <ClCompile Include="src\select_sort.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="bubble_sort.c">
+    <ClCompile Include="src\bubble_sort.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\quick_sort.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

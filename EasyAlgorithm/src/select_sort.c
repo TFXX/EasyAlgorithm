@@ -1,6 +1,6 @@
-#include "pch.h"
+#include "..\inc\pch.h"
 
-#include "select_sort.h"
+#include "..\inc\select_sort.h"
 
 int select_sort(int *pArray, size_t num)
 {

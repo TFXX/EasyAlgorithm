@@ -1,5 +1,5 @@
-#include "pch.h"
-#include "merge_sort.h"
+#include "..\inc\pch.h"
+#include "..\inc\merge_sort.h"
 
 int merge_by_index(int *pArray, int *pTempArray, const size_t begin, const size_t middle, const size_t end)
 {

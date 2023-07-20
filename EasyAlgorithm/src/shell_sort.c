@@ -1,5 +1,5 @@
-#include "pch.h"
-#include "shell_sort.h"
+#include "..\inc\pch.h"
+#include "..\inc\shell_sort.h"
 
 int shell_sort(int *pArray, size_t num)
 {

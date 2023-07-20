@@ -1,5 +1,5 @@
-#include "pch.h"
-#include "insert_sort.h"
+#include "..\inc\pch.h"
+#include "..\inc\insert_sort.h"
 
 int insert_sort_with_delta(int *pArray, size_t num, size_t delta)
 {

@@ -1,4 +1,4 @@
-﻿#include "pch.h"
+﻿#include "..\inc\pch.h"
 
 bool swap(int *a, int *b)
 {
