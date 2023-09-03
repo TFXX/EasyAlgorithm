@@ -2,12 +2,15 @@
 
 bool swap(int *a, int *b)
 {
-	if (a == NULL || b == NULL)
-	{
-		return false;
-	}
+	assert(a != NULL && b != NULL);
+
 	int temp = *a;
 	*a = *b;
 	*b = temp;
 	return true;
+}
+
+bool less(const int a, const int b)
+{
+	return a < b;
 }
